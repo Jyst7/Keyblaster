@@ -66,7 +66,3 @@ Additional Notes
 -   Make sure you have turtle and time libraries installed.
 -   The game speed is set using the delay variable, which is currently set to 0.1.
 -   The text file names are determined by the level and boss mode to determine the difficulty of the sentences
-
-Author
-
-Jayson Sone and Dhillan Aggarwal
