@@ -864,4 +864,4 @@ while lives > 0:
 cannon_exit()  # Call cannon exit before drawing win screen
 screen.update()
 turtle.done()
-# make approx num of words ~ for next level -suggestion by ms chan
+# make approx num of words ~ for next level -suggestion no. 3
